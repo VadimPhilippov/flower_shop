@@ -1,0 +1,19 @@
+{
+  "name": "m6-52-control-task-11-flowers",
+  "version": "1.0.0",
+  "description": "flower shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vadim Filippov",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-less": "^5.0.0",
+    "gulp-rename": "^2.0.0"
+  }
+}
